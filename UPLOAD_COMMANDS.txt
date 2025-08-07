@@ -1,0 +1,28 @@
+STEP-BY-STEP COMMANDS TO RUN AFTER CREATING GITHUB REPOSITORY
+================================================================
+
+1. FIRST - Replace YOUR_USERNAME with your actual GitHub username in the URL below
+2. THEN - Run these commands ONE BY ONE in your terminal:
+
+Command 1: Add GitHub repository as remote origin
+git remote add origin https://github.com/YOUR_USERNAME/enhanced-alternate-credit-system.git
+
+Command 2: Push your code to GitHub
+git push -u origin main
+
+That's it! Your enhanced alternate credit system will be uploaded to GitHub.
+
+EXAMPLE:
+If your GitHub username is "johnsmith", then Command 1 becomes:
+git remote add origin https://github.com/johnsmith/enhanced-alternate-credit-system.git
+
+TROUBLESHOOTING:
+- If you get authentication error, GitHub may ask for your username and password
+- For newer GitHub accounts, you might need a Personal Access Token instead of password
+- If you get "repository not found" error, double-check the URL and your username
+
+WHAT HAPPENS AFTER UPLOAD:
+- All 24 files will be uploaded to GitHub
+- Your commit message will show all the enhancements made
+- Others can see your enhanced credit scoring system
+- You can share the repository URL with anyone
