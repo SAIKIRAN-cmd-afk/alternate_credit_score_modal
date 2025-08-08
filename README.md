@@ -9,6 +9,7 @@ Alternative Credit Scoring Model
 Traditional credit scoring models heavily rely on formal credit history, which excludes millions of individuals who may still be creditworthy. This project explores an **alternative credit scoring system** using non-traditional data sources such as rent payments, utility bills, education levels, cash flows, and employment status to help include the "credit invisible" population in financial systems.
 
 ---
+WEBSITE LINK : https://alternate-credit-system.windsurf.build
 
 ## 📊 Dataset
 
