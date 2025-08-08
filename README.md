@@ -30,7 +30,7 @@ Since public alternative credit datasets are limited, we simulate realistic appl
 | Layer        | Tool/Tech            |
 |--------------|----------------------|
 | 💻 Frontend  | Streamlit            |
-| ⚙️ Backend   | FastAPI              |
+| ⚙️ Backend   | Flask              |
 | 🧠 ML Model  | Scikit-learn (Random Forest) |
 | 📊 Explainability | SHAP          |
 | 🧪 Testing   | Pytest               |
@@ -41,11 +41,11 @@ Since public alternative credit datasets are limited, we simulate realistic appl
 
 ## 👥 Team Members
 
-- Sarthak Joshi
+- Sarthak Siddharth Joshi
 - Siddhant Ganesh Deokar
-- Saikiran
+- K. Sai Kiran
 - Jeetesh Auddy
-- Baibhav Uzir
+- Baibhav Bharadwaj Uzir
 
 
 ---
@@ -63,8 +63,9 @@ alternate-credit-scoring-model/
 │   └── train_model.py
 │   └── model.pkl
 │
-├── backend/                  # FastAPI backend
+├── backend/                  # Flask backend
 │   └── main.py
+│   └── data.csv
 │
 ├── frontend/                 # Streamlit UI
 │   └── app.py
